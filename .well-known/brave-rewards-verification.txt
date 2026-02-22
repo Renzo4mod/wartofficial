@@ -1,4 +1,4 @@
 This is a Brave Creators publisher verification file.
 
-Domain: wartofficial.netlify.app
-Token: 45eb5fe91634b18ba776c87004f556570d445597a5846956cb78e9e9b866be87
+Domain: watrofficial.vercel.app
+Token: 72d8410de660da9fe809a5e35e4f7ebffdcc40ec1881dafac36463bd4d22890c
